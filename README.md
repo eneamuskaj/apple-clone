@@ -1,3 +1,3 @@
 # apple-clone
 
-Live Version: https://github.com/eneamuskaj/apple-clone/settings/pages
+Live Version: https://eneamuskaj.github.io/apple-clone/
