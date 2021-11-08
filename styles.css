@@ -47,6 +47,8 @@ footer {
   color: white;
 }
 .ul-navbar > * {
+  text-align: center;
+  text-shadow: 0px -1px 0px rgba(85, 85, 85, 0.5);
   background-image: linear-gradient(black, grey);
   padding: 7px;
   flex: 1 1 0px;
@@ -58,6 +60,10 @@ footer {
     rgba(117, 117, 117, 1) 50%,
     rgba(106, 106, 106, 1) 100%
   );
+  border-right: 1px solid rgb(146, 146, 146);
+}
+.ul-navbar {
+  border: 1px solid rgba(126, 126, 126, 0.45);
 }
 
 .main {
